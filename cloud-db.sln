@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloud-db", "cloud-db\cloud-db.csproj", "{BDD7C696-69E3-4115-9D49-5CE24BD620A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WidgetAndCo", "WidgetAndCo\WidgetAndCo.csproj", "{C3E07FCF-00D3-462B-A81D-70C3B347F987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD7C696-69E3-4115-9D49-5CE24BD620A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD7C696-69E3-4115-9D49-5CE24BD620A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD7C696-69E3-4115-9D49-5CE24BD620A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD7C696-69E3-4115-9D49-5CE24BD620A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E07FCF-00D3-462B-A81D-70C3B347F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E07FCF-00D3-462B-A81D-70C3B347F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E07FCF-00D3-462B-A81D-70C3B347F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E07FCF-00D3-462B-A81D-70C3B347F987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D123E641-B6DA-4D4A-98B3-92DFBAEE270F}
+	EndGlobalSection
+EndGlobal
